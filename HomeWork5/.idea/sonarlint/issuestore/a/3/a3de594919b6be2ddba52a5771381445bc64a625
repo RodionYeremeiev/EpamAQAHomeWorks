@@ -1,0 +1,30 @@
+
+]
+java:S1854"DRemove this useless assignment to local variable "arrayRectangles1".(Þ’Š‚ùÿÿÿÿ
+V
+java:S1854"=Remove this useless assignment to local variable "notSquare".(ˆÕïüÿÿÿÿÿ
+N
+java:S1854":Remove this useless assignment to local variable "square".(×”Æž
+T	java:S125"<This block of commented-out lines of code should be removed.(íô¤Çùÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(äáÁ¬ýÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(Õî•«úÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¨¹„É
+L	java:S106"9Replace this use of System.out or System.err by a logger.(±º«¿
+T	java:S125"<This block of commented-out lines of code should be removed.(¯²†¡úÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(‘ß¾Ì
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¨¹„É
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(©üÃõüÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(×ŸÖÑúÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿéú
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(×ŸÖÑúÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(„õË‹ÿÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(×ŸÖÑúÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿéú
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(×ŸÖÑúÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(¾´Úÿÿÿÿÿ
+?
+java:S1481"+Remove this unused "square" local variable.(×”Æž
+G
+java:S1481".Remove this unused "notSquare" local variable.(ˆÕïüÿÿÿÿÿ
+N
+java:S1481"5Remove this unused "arrayRectangles1" local variable.(Þ’Š‚ùÿÿÿÿ
